@@ -1,2 +1,1 @@
-Probando el merge con la solucion de conflictos
-
+print---Probando el merge con la solucion de conflictos.:
