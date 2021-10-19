@@ -1,1 +1,1 @@
-el fichero mostrara los commits a revertir
+Esto sera un fichero para mostrar una actualizacion del cliente
